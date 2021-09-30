@@ -29,7 +29,7 @@
 		<!-- 网页中间 -->
 		<div class="container">
 			<!-- 链接区，指向对应的具体页面 -->
-			<div id="links"><a href="./contents/hello.html">hello</a><br><a href="./contents/测试.html">测试</a><br></div>
+			<div id="links"></div>
 			<p>目前也许并没有什么实际内容可惜了</p>
 			<p>目前并没有什么实际内容可惜了</p>
 			<p>目前并没有什么实际内容可惜了</p>
